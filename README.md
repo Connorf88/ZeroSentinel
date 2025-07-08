@@ -10,9 +10,7 @@ Designed as a lightweight introduction to cybersecurity AI and local DevOps work
 
 ---
 
-## 📽️ Video Walkthrough
 
-➡️ A full project walkthrough is available in the [LinkedIn post here](#)—from directory setup to container execution.
 
 ---
 
